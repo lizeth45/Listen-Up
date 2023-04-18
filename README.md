@@ -12,4 +12,7 @@ At the end of the test, the application will provide results on your ability to 
 ## Frameworks 
 In my project I used SwiftUI to design my interfaces and AVKit to playing sounds during the test. 
 
+## Design 
+All my icons and images were created with Canva, a free design tool.
+
 ## Video tutorial   
