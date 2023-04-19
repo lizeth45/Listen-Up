@@ -21,3 +21,4 @@ In my project I used SwiftUI to design my interfaces and AVKit to playing sounds
 All my icons and images were created with Canva, a free design tool.
 
 ## Video tutorial ▶
+[![Alt text](https://img.youtube.com/vi/9owPes1Y4y8/0.jpg)](https://www.youtube.com/watch?v=9owPes1Y4y8)
