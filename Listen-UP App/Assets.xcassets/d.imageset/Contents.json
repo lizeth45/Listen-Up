@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Black_Blue_Modern_Let_s_Play_The_Game_Phone_Wallpaper-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
